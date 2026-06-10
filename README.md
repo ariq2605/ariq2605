@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoZmpneG55OXpxMHR6a3N6NGc1OGUyOWZscHNpOHVhOGxnd21xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z4AnBVQKOR0FtUwRNW/giphy.gif" width="100%" />
+</p>
+
 ## Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -8,3 +12,6 @@
 ## GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ariq2605&show_icons=true&theme=dark&title_color=ff69b4&text_color=7fdbff&icon_color=ff69b4&bg_color=0d1117" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ariq2605/count.svg" alt="Visitor Count" />
+</p>
